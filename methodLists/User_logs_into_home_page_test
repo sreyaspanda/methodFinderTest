@@ -1,0 +1,11 @@
+{
+    "User_logs_into_home_page_test":{
+        "UserService":[
+            "findUserByUsername",
+            "passwordMatches"
+        ],
+        "UserController":[
+            "login"
+        ]
+    }
+}
